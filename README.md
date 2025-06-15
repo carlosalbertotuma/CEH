@@ -43,7 +43,7 @@ Não precisa de servidor! Basta abrir com clique duplo.
 
 ---
 
-📊 Resultado
+## 📊 Resultado
 Ao terminar o simulado, a pontuação final será exibida automaticamente.
 
 ✅ Aprovado: 70% ou mais
@@ -51,16 +51,19 @@ Ao terminar o simulado, a pontuação final será exibida automaticamente.
 ❌ Reprovado: abaixo de 70%
 
 ---
-🛠️ Contribuições
+![image](https://github.com/user-attachments/assets/f5401fb3-eee8-4bc7-835b-8a7aad00d2c6)
+
+![image](https://github.com/user-attachments/assets/5da7958f-0e14-4576-93ce-0af051d6eba8)
+
+
+--
+## 🛠️ Contribuições
 Sinta-se à vontade para abrir issues ou pull requests com correções, melhorias de UI ou novas questões!
 
 ---
-📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT.
 
 ---
-🙋‍♂️ Autor
+## 🙋‍♂️ Autor
 Desenvolvido por Bl4dsc4n
-
-![bb](https://github.com/user-attachments/assets/6b747d3e-0757-416f-8f16-df34a6b75ecb)
-   
