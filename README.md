@@ -1,5 +1,8 @@
 # 💻 CEH Simulado - Redscan Academy
 
+![bb](https://github.com/user-attachments/assets/6b747d3e-0757-416f-8f16-df34a6b75ecb)
+
+
 Este repositório contém um **simulado interativo** com 187 questões de múltipla escolha, inspirado no conteúdo da certificação **Certified Ethical Hacker (CEH)**, baseado no material da **Redscan Academy**.
 
 O objetivo é auxiliar na preparação para o exame, oferecendo uma forma prática de revisar os principais tópicos cobrados na certificação.
