@@ -41,6 +41,8 @@ Abra o arquivo CEH.html em seu navegador:
 
 Não precisa de servidor! Basta abrir com clique duplo.
 
+---
+
 📊 Resultado
 Ao terminar o simulado, a pontuação final será exibida automaticamente.
 
@@ -48,12 +50,15 @@ Ao terminar o simulado, a pontuação final será exibida automaticamente.
 
 ❌ Reprovado: abaixo de 70%
 
+---
 🛠️ Contribuições
 Sinta-se à vontade para abrir issues ou pull requests com correções, melhorias de UI ou novas questões!
 
+---
 📄 Licença
 Este projeto está sob a licença MIT.
 
+---
 🙋‍♂️ Autor
 Desenvolvido por Bl4dsc4n
    
